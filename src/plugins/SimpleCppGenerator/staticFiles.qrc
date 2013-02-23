@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>staticFiles/JoystickWrapper.cpp</file>
+        <file>staticFiles/JoystickWrapper.h</file>
+        <file>staticFiles/DisplayWrapper.cpp</file>
+        <file>staticFiles/DisplayWrapper.h</file>
+        <file>staticFiles/JoystickCallback.h</file>
+    </qresource>
+</RCC>

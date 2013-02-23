@@ -1,0 +1,8 @@
+Friedman
+--------
+
+Friedman is a Domain Specific Language for FRC (FIRST Robotics Competition) robots. It's feature rich, freeware and requires only Qt4.
+
+I have NOT yet updated Friedman to work with Qt 5.
+
+Friedman's build system and deployment system are Linux-only, unfortunately.
